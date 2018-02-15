@@ -1,7 +1,7 @@
 {
   "name": "snapy-filter-obj",
   "description": "Filter properties from a snapshot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/snapyjs/",
   "author": {
     "name": "Paul Pflugradt",
